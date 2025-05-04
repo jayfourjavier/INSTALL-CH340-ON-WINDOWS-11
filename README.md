@@ -1,4 +1,3 @@
-Here's a well-formatted **README.md** section for **Installing the CH34X Driver on Windows 11**, with placeholders for images you can later replace:
 
 ---
 
@@ -65,8 +64,6 @@ Here's a well-formatted **README.md** section for **Installing the CH34X Driver 
 6. **Reconnect** the USB cable – the same COM port should reappear
    ![Reconnect Cable](images/verify-step7.png)
 
-> 📝 This COM port number (e.g., COM3, COM7, etc.) is what you’ll use for uploading sketches via Arduino IDE.
+> 📝 This COM port number (e.g., COM3, COM7, etc.) is what you’ll use for uploading sketches via Arduino IDE, PlatformIO IDE or viewing Serial Monitor using PUTTY.
 
 ---
-
-Let me know if you want the Markdown with actual image `src` paths using your folder structure.
